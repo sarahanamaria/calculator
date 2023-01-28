@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sarahanamaria/calculator/static/css/main.07ceb379.css",
+    "main.js": "/sarahanamaria/calculator/static/js/main.c795ec51.js",
+    "static/js/787.a174f9e5.chunk.js": "/sarahanamaria/calculator/static/js/787.a174f9e5.chunk.js",
+    "index.html": "/sarahanamaria/calculator/index.html",
+    "main.07ceb379.css.map": "/sarahanamaria/calculator/static/css/main.07ceb379.css.map",
+    "main.c795ec51.js.map": "/sarahanamaria/calculator/static/js/main.c795ec51.js.map",
+    "787.a174f9e5.chunk.js.map": "/sarahanamaria/calculator/static/js/787.a174f9e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07ceb379.css",
+    "static/js/main.c795ec51.js"
+  ]
+}
